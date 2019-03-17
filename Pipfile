@@ -9,6 +9,11 @@ verify_ssl = true
 jupyter = "*"
 scikit-learn = "*"
 pandas = "*"
+jupyterlab = "*"
+matplotlib = "*"
+tornado = "==5.1.1"
+bokeh = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.6"
