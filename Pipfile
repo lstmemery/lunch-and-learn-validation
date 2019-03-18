@@ -14,6 +14,8 @@ matplotlib = "*"
 tornado = "==5.1.1"
 bokeh = "*"
 graphviz = "*"
+tqdm = "*"
+jupyter-contrib-nbextensions = "*"
 
 [requires]
 python_version = "3.6"
