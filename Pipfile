@@ -16,6 +16,8 @@ bokeh = "*"
 graphviz = "*"
 tqdm = "*"
 jupyter-contrib-nbextensions = "*"
+rise = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.6"
