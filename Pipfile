@@ -18,6 +18,7 @@ tqdm = "*"
 jupyter-contrib-nbextensions = "*"
 rise = "*"
 notebook = "*"
+parso = "*"
 
 [requires]
 python_version = "3.6"
